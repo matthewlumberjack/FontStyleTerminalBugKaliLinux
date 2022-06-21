@@ -73,6 +73,8 @@ You can edit lots of thing here e.x. below you can edit **"fontSize"** parameter
 After change font name, click ***CTRL + S*** to save file and ***CTRL + X*** to exit.
 
 Voilà! 
+
 <img src="img/voilà.png">
-Now you're font style should be changed!<editor> /home/<username>/.config/qterminal.org/qterminal.ini
+
+Now your font style should be changed!<editor> /home/<username>/.config/qterminal.org/qterminal.ini
 
