@@ -5,7 +5,22 @@ Wonder how i fixed that? Let me show you!
 
 First we need to find your Kali's username.
 
-To do so, open up terminal and type ID
+To do so, open up terminal and type **ID**
+
+<img src="img/id.png">
+
+Username is on your **UID** but we need word not an number. In my case it's "kali" yours can be different, that's why we checking it :).
+
+Alright, we got your username now we can navigate to actual config file where we'll change your font.
+
+In terminal type # FixTerminalKaliLinux
+
+Recently I've run into bug in Kali Linux. Bug was about I couldn't change my font from terminal level. <br>
+Wonder how i fixed that? Let me show you!
+
+First we need to find your Kali's username.
+
+To do so, open up terminal and type ******ID***
 
 <img src="img/id.png">
 
@@ -13,9 +28,9 @@ Username is on your UID but we need word not an number. In my case it's "kali" y
 
 Alright, sice we have your username now we can navigate to actual config file where we'll change your font.
 
-In terminal type <editor> /home/<username>/.config/qterminal.org/qterminal.ini
-Replacing <editor> with your text editor. On Kali you can use "mousepad", "nano" or  "vim" (I'll be using nano),
-and <username> with the useranme we've just found.
+In terminal type ***"editor" /home/"username"/.config/qterminal.org/qterminal.ini***
+Replacing **"editor"** with your text editor. On Kali you can use **"mousepad"**, **"nano"** or  **"vim"** (I'll be using nano),
+and **"username"** with the useranme we've just found.
 
 <img src="img/command.png">
 
@@ -25,8 +40,8 @@ It should look like this
 
 <img src="img/config.png">
 
-Now click CTRL + W, search bar will appear.
-In here type "fontFamily" and click ETNER.
+Now click ******CTRL + W***, search bar will appear.
+In here type ***"fontFamily"*** and click ETNER.
 
 <img src="img/search.png">
 
@@ -34,8 +49,8 @@ You'll be navigated to line where we wanna make changes to.
 
 <img src="img/line.png">
 
-If you wanna changes your font style, you need to change "fontFamily" parameter. 
-To do so delete font name in this case it's "FiraCode", by navigating with your keys (arrows or shortcuts)
+If you wanna changes your font style, you need to change ***"fontFamily"*** parameter. 
+To do so delete font name in this case it's ***"FiraCode"***, by navigating with your keys (arrows or shortcuts)
 
 <img src="img/editing.png">
 
@@ -44,18 +59,19 @@ You can find names of fonts open up new Terminal > Right click > Preferences > A
 
 <img src="img/navigate.png">
 
-You will see list of Fonts name (I can't make screenshot of it), pick which one you want and go back to your Config File.
+You will see list of Fonts name (I can't make screenshot of it), pick which one you want and go back to your **config file**.
 
-Remember to type font name without spaces!
+Remember to type font name without any spaces!
 
-I've picked Fira Code (which is default), so I'll type "FiraCode". 
+I've picked **Fira Code** (which is default), so I'll type **"FiraCode"**. 
 
 <img src="img/type.png">
 
-You can edit lots of thing here e.x. below you can edit "fontSize" parameter.
+You can edit lots of thing here e.x. below you can edit **"fontSize"** parameter.
 
-After change font name, click CTRL + S to save file and CTRL + X to exit.
+After change font name, click ***CTRL + S*** to save file and ***CTRL + X*** to exit.
 
 Voilà! 
 <img src="img/voilà.png">
-Now you're font style should be changed!
+Now you're font style should be changed!<editor> /home/<username>/.config/qterminal.org/qterminal.ini
+
