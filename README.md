@@ -1,4 +1,4 @@
-# FixTerminalKaliLinux
+# FontStyleBug
 
 Recently, I ran into a bug in Kali Linux. The bug was that I couldn't change the font in the terminal <br>
 Wonder how i fixed that? Let me show you!
