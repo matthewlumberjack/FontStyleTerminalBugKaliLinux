@@ -4,6 +4,7 @@ Recently I've run into bug in Kali Linux. Bug was about I couldn't change my fon
 Wonder how i fixed that? Let me show you!
 
 #Tutorial
+
 First we need to find your Kali's username.
 
 To do so, open up terminal and type ***ID***
