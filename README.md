@@ -1,6 +1,6 @@
 # FixTerminalKaliLinux
 
-Recently I've run into bug in Kali Linux. Bug was about I couldn't change my font from terminal level. <br>
+Recently, I ran into a bug in Kali Linux. The bug was that I couldn't change the font in the terminal <br>
 Wonder how i fixed that? Let me show you!
 
 # Tutorial
