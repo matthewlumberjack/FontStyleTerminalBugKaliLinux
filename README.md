@@ -11,21 +11,6 @@ To do so, open up terminal and type ***ID***
 
 <img src="img/id.png">
 
-Username is on your **UID** but we need word not an number. In my case it's "kali" yours can be different, that's why we checking it :).
-
-Alright, we got your username now we can navigate to actual config file where we'll change your font.
-
-In terminal type # FixTerminalKaliLinux
-
-Recently I've run into bug in Kali Linux. Bug was about I couldn't change my font from terminal level. <br>
-Wonder how i fixed that? Let me show you!
-
-First we need to find your Kali's username.
-
-To do so, open up terminal and type ******ID***
-
-<img src="img/id.png">
-
 Username is on your UID but we need word not an number. In my case it's "kali" yours can be different, that's why we checking it :).
 
 Alright, sice we have your username now we can navigate to actual config file where we'll change your font.
