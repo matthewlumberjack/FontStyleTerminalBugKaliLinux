@@ -78,3 +78,6 @@ Voilà!
 
 Now your font style should be changed!<editor> /home/<username>/.config/qterminal.org/qterminal.ini
 
+<h1>Thank you for reading and hope it helps!</h1>
+  Contact: mathoos264@gmail.com
+  
