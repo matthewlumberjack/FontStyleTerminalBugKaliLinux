@@ -6,7 +6,7 @@ Wonder how i fixed that? Let me show you!
 #Tutorial
 First we need to find your Kali's username.
 
-To do so, open up terminal and type **ID**
+To do so, open up terminal and type ***ID***
 
 <img src="img/id.png">
 
@@ -76,7 +76,7 @@ Voilà!
 
 <img src="img/voilà.png">
 
-Now your font style should be changed!<editor> /home/<username>/.config/qterminal.org/qterminal.ini
+Now your font style should be changed!
 
 <h1>Thank you for reading and hope it helps!</h1>
   Contact: mathoos264@gmail.com
