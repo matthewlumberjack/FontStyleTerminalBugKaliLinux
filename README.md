@@ -27,7 +27,7 @@ It should look like this
 
 <img src="img/config.png">
 
-Now click ******CTRL + W***, search bar will appear.
+Now click ***CTRL + W***, search bar will appear.
 In here type ***"fontFamily"*** and click ETNER.
 
 <img src="img/search.png">
