@@ -11,7 +11,7 @@ To do so, open up terminal and type ***ID***
 
 <img src="img/id.png">
 
-Username is on your UID but we need word not an number. In my case it's "kali" yours can be different, that's why we checking it :).
+Username is your UID in my case it's ***UID=1000(kali)***, for your path we need a word not an number. In my case it's "kali" yours can be different, that's why we checking it :).
 
 Alright, sice we have your username now we can navigate to actual config file where we'll change your font.
 
