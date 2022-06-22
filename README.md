@@ -15,7 +15,7 @@ Username is on your UID but we need word not an number. In my case it's "kali" y
 
 Alright, sice we have your username now we can navigate to actual config file where we'll change your font.
 
-In terminal type ***"editor" /home/"username"/.config/qterminal.org/qterminal.ini*** <br>
+In terminal type ***sudo "editor" /home/"username"/.config/qterminal.org/qterminal.ini*** <br>
 Replacing **"editor"** with your text editor. *On Kali you can use one of preinstalled for example: **"mousepad"**, **"nano"** or  **"vim"** (I'll be using nano),*
 and **"username"** with the useranme we've just found.
 
